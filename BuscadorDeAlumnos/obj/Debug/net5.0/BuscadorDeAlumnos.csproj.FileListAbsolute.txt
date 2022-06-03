@@ -1,0 +1,16 @@
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.exe
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.deps.json
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.runtimeconfig.json
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.runtimeconfig.dev.json
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.dll
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\ref\BuscadorDeAlumnos.dll
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\bin\Debug\net5.0\BuscadorDeAlumnos.pdb
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.csproj.AssemblyReference.cache
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.AssemblyInfoInputs.cache
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.AssemblyInfo.cs
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.dll
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\ref\BuscadorDeAlumnos.dll
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.pdb
+C:\Users\mca\source\repos\BuscadorDeAlumnos\BuscadorDeAlumnos\obj\Debug\net5.0\BuscadorDeAlumnos.genruntimeconfig.cache
